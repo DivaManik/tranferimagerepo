@@ -1,0 +1,92 @@
+SKRIP DEMO VIDEO — ContractGuard (3 Menit)
+==========================================
+
+
+[0:00 – 0:20] OPENING
+----------------------
+Tampilkan: landing page contractguard.site
+
+Narasi:
+"Di dunia freelance dan konstruksi, sengketa kontrak adalah masalah nyata.
+Tidak ada transparansi, tidak ada perlindungan, dan pembayaran bisa dimanipulasi
+kapan saja. Kami hadir dengan ContractGuard — platform audit kontrak berbasis AI
+dan blockchain Solana, yang memastikan setiap milestone dibayar adil, otomatis,
+dan transparan."
+
+
+[0:20 – 0:55] FITUR 1 — AI AUDIT KONTRAK
+------------------------------------------
+Tampilkan: Klik menu Audit, lalu klik tombol "Coba Demo Kontrak"
+
+Narasi:
+"Pertama, upload dokumen kontrak PDF kamu. Cukup satu klik dengan demo kontrak kami."
+
+Tampilkan: Tunggu hasil analisis QVAC muncul
+
+Narasi:
+"Dalam hitungan detik, AI kami menganalisis kontrak secara mendalam — memberikan
+Fairness Score, mendeteksi klausul berisiko, dan membandingkan harga dengan data
+pasar real-time. Tidak perlu lawyer mahal untuk tahu apakah kontrakmu adil."
+
+
+[0:55 – 1:35] FITUR 2 — BUAT KONTRAK ON-CHAIN
+------------------------------------------------
+Tampilkan: Klik Create, isi form: judul, total nilai, tambah 2 checkpoint
+
+Narasi:
+"Setelah puas dengan kontrak, deploy langsung ke blockchain Solana. Isi detail
+proyek, tentukan checkpoint dan persentase pembayaran di setiap milestone."
+
+Tampilkan: Klik Deploy, konfirmasi di Phantom wallet
+
+Narasi:
+"Konfirmasi lewat Phantom wallet. Dana dikunci di smart escrow — tidak bisa
+disentuh siapapun sampai bukti pekerjaan disetujui. Ini bukan janji, ini kode
+yang tidak bisa diubah."
+
+
+[1:35 – 2:25] FITUR 3 — SUBMIT BUKTI & AI REVIEW
+---------------------------------------------------
+Tampilkan: Masuk ke Dashboard, buka kontrak, klik Submit Evidence di checkpoint pertama
+
+Narasi:
+"Kontraktor menyelesaikan pekerjaan, lalu upload bukti — bisa PDF laporan atau foto."
+
+Tampilkan: Upload file, lalu klik Review with AI
+
+Narasi:
+"QVAC, AI lokal kami, membaca bukti tersebut dan membandingkannya langsung dengan
+isi kontrak. Apakah spesifikasi terpenuhi? Apakah ada kekurangan? AI memberikan
+verdict: APPROVED atau NEEDS REVISION — lengkap dengan skor compliance dan temuan
+detail."
+
+Tampilkan: Hasil review — badge APPROVED, compliance score
+
+Narasi:
+"Jika disetujui, client bisa langsung release pembayaran USDt dari escrow.
+Semua tercatat di blockchain, tidak ada manipulasi."
+
+
+[2:25 – 2:50] TECH STACK SINGKAT
+----------------------------------
+Tampilkan: Landing page bagian bawah / sponsor
+
+Narasi:
+"ContractGuard dibangun di atas Solana untuk kecepatan dan biaya rendah, QVAC
+sebagai AI engine lokal yang privat dan deterministik, Supabase untuk data,
+dan Tether USDt sebagai mata uang escrow yang stabil."
+
+
+[2:50 – 3:00] CLOSING
+-----------------------
+Tampilkan: Kembali ke halaman utama
+
+Narasi:
+"ContractGuard — karena kepercayaan seharusnya tidak bergantung pada manusia saja.
+Terima kasih."
+
+
+==========================================
+Total durasi  : ~3 menit
+Tips rekaman  : Aktifkan Phantom di Devnet, siapkan demo kontrak sudah ter-deploy,
+                dan pastikan QVAC berjalan sebelum mulai rekam.
